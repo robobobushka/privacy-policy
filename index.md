@@ -1,12 +1,12 @@
-# Privacy Policy
+# RobobobApp — Privacy Policy
 
 **Last updated:** 2026-09-25
 
-This privacy policy covers personal automation tooling ("the App") that uses Google APIs on behalf of a single individual (the account owner). The App is not distributed to, or used by, the general public.
+RobobobApp is personal automation tooling ("the App") that uses Google APIs on behalf of a single individual (the account owner). The App is not distributed to, or used by, the general public.
 
 ## Data collection and use
 
-The App accesses Google account data (such as Gmail, Calendar, Drive, Contacts, Sheets, and Docs, depending on which scopes are granted) solely to perform actions requested directly by the account owner, on the account owner's own behalf.
+RobobobApp accesses Google account data (such as Gmail, Calendar, Drive, Contacts, Sheets, and Docs, depending on which scopes are granted) solely to perform actions requested directly by the account owner, on the account owner's own behalf.
 
 ## Data storage and sharing
 
@@ -20,7 +20,7 @@ Data is retained only as long as needed to perform the requested action, or as c
 
 ## Revoking access
 
-The account owner can revoke this App's access at any time via [Google Account permissions](https://myaccount.google.com/permissions).
+The account owner can revoke RobobobApp's access at any time via [Google Account permissions](https://myaccount.google.com/permissions).
 
 ## Contact
 
